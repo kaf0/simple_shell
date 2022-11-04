@@ -320,6 +320,6 @@ $
 
 ## Authors ##
 
-**Gertrude Seworh**
+**Gertrude Seworh** **&**
 **James Kwakye**
 
